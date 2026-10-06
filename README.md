@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://here.gleb-perveev-ge.workers.dev/graph.svg?theme=dark&motion=drift&v=3">
-    <img alt="" src="https://here.gleb-perveev-ge.workers.dev/graph.svg?theme=light&motion=drift&v=3" width="880">
+    <source media="(prefers-color-scheme: dark)" srcset="https://here.gleb-perveev-ge.workers.dev/graph.svg?theme=dark&motion=drift&v=4">
+    <img alt="" src="https://here.gleb-perveev-ge.workers.dev/graph.svg?theme=light&motion=drift&v=4" width="880">
   </picture>
 </p>
 <p align="center">
